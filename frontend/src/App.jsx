@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import SignUpPage from './pages/SignUpPage';
 import LoginPage from './pages/LoginPage';
 import HomePage from "./pages/HomePage";
-import SettingsPage from './pages/settingsPage';
+import SettingsPage from './pages/SettingsPage';
 import ProfilePage from './pages/ProfilePage';
 import { useAuthStore } from './store/useAuthStore';
 import {Loader} from "lucide-react";
